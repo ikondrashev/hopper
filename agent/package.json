@@ -1,0 +1,19 @@
+{
+    "name": "agent",
+    "version": "0.0.1",
+    "description": "",
+    "keywords": [],
+
+    "main": "agent",
+
+    "engines": {
+        "node" : ">=0.6.7"
+    },
+
+    "directories": {
+    },
+
+    "dependencies": {
+        "log4js" : "0.3"
+    }
+}
